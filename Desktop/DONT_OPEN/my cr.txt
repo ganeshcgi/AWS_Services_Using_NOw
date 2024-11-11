@@ -1,0 +1,10 @@
+Ascent:
+===============
+dasariganesh@ascent-hr.com
+G00dday$$123
+EPF pwd: G00dday$$123
+
+
+vigneswaran ALL=(ALL:ALL) NOPASSWD:ALL
+
+
